@@ -13,8 +13,18 @@
   </a>
 </p>
 <h1>👨🏻‍💻  A Little Bit About Me and My Interests</h1>
-```javascript
-console.log("Hello, World!");
+
+This will render the code block with syntax highlighting for JavaScript.
+
+---
+
+### Example: Code Block in README
+```markdown
+### Example Code Block
+
+```html
+<p>Hello, GitHub!</p>
+
 
 
 
