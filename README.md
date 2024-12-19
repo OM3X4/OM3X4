@@ -49,20 +49,7 @@ hobbies: ["Gaming", "Chess", "FootBall" , "TouchTyping"]
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="45' height="45" />
 </p>
 
-## LeetCode Stats
-
-- **Username**: [your-username](https://leetcode.com/your-username)
-- **Ranking**: Top X%
-- **Problems Solved**: X problems
-- **Top Topics**: Dynamic Programming, Graphs, etc.
-- **Badge**: ![Badge Image URL](URL-to-badge)
-
-### Some of my LeetCode problems:
-- [Problem Name](link-to-problem) - Solution Overview
-
-Feel free to explore my LeetCode progress and challenges.
-
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
   
 
 
