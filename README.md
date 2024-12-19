@@ -38,6 +38,22 @@ fields_of_interests:
 currently_learning: ["C# , .NET , Grinding LeetCode"]
 hobbies: ["Gaming", "Chess", "FootBall" , "TouchTyping"]
 ```
+<p>
+  <h1>💻My Projects</h1>
+  <p>
+    <a href="https://om3x4.github.io/Chezzy/" target="_blank">Chezzy♟</a>
+    <h3>This is a project of a chess website with integrated engine (queen fish) which is made by me also it supports 1v1 and play against queen fish.</h3>
+    <img src="https://github.com/user-attachments/assets/da470188-71e0-4bee-b24a-7a47e01e3280" />
+  </p>
+  <p>
+    <a href="https://om3x4.github.io/Chezzy/" target="_blank">OmarType⌨</a>
+    <h3>OmarType is a monkeytype clone that has most features like theme and blind mode tape mode confidence mode and stop on error while using resistant memory to save</h3>
+    <img src="https://github.com/user-attachments/assets/a6869ffb-2837-4fe9-b33c-a933197612e2" />
+  </p>
+</p>
+
+
+
 <h1>🚀  Some Tools I Have Used and Learned</h1>
 <p align="left">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" width="45' height="45" />
