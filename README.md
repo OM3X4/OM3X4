@@ -46,9 +46,14 @@ hobbies: ["Gaming", "Chess", "FootBall" , "TouchTyping"]
     <img src="https://github.com/user-attachments/assets/da470188-71e0-4bee-b24a-7a47e01e3280" />
   </p>
   <p>
-    <a href="https://om3x4.github.io/Chezzy/" target="_blank">OmarType⌨</a>
-    <h3>OmarType is a monkeytype clone that has most features like theme and blind mode tape mode confidence mode and stop on error while using resistant memory to save</h3>
+    <a href="https://om3x4.github.io/Omartype/#/" target="_blank">OmarType⌨</a>
+    <h3>OmarType is a monkeytype clone that has most features like theme and blind mode tape mode confidence mode and stop on error while using resistant memory to save.</h3>
     <img src="https://github.com/user-attachments/assets/a6869ffb-2837-4fe9-b33c-a933197612e2" />
+  </p>
+  <p>
+    <a href="https://om3x4.github.io/Movier/" target="_blank">Movier🎞</a>
+    <h3>This is a like imdb movie db that contain movies with date actors and profiles for actors with bios.</h3>
+    <img src="https://github.com/user-attachments/assets/90430b73-6004-4c59-afdf-d24b0ab705db" />
   </p>
 </p>
 
