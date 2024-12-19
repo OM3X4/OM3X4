@@ -9,7 +9,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="80">
   </a>
   <a href="https://www.instagram.com/om3x4e/" target="_blank" style="margin: 0 15px;">
-    <img src="https://i.pinimg.com/736x/2a/89/fe/2a89fee1a635745cec680e88efa49bcc.jpg" alt="Instagram" width="80">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png" alt="Instagram" width="80">
   </a>
 </p>
 
