@@ -3,16 +3,16 @@
 </p>
 <p align="center">
   <a href="https://github.com/om3x4" target="_blank" style="margin: 0 15px;">
-    <img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-jaune.png" alt="GitHub" width="50">
+    <img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-jaune.png" alt="GitHub" width="40">
   </a>
   <a href="https://linkedin.com/in/yourprofile" target="_blank" style="margin: 0 15px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40">
   </a>
   <a href="https://www.instagram.com/om3x4e/" target="_blank" style="margin: 0 15px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png" alt="Instagram" width="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png" alt="Instagram" width="40">
   </a>
   <a href="https://dev.to/om3x4" target="_blank" style="margin: 0 15px;">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-dev-dot-to-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-2-pack-logos-icons-3147099.png" alt="Dev.to" width="50">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-dev-dot-to-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-2-pack-logos-icons-3147099.png" alt="Dev.to" width="40">
   </a>
 </p>
 <h1>👨🏻‍💻  A Little Bit About Me and My Interests</h1>
