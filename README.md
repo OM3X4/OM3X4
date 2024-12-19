@@ -32,9 +32,15 @@ fields_of_interests:
     "Game Development",
     "LeetCode",
   ]
-  
 currently_learning: ["C# , .NET , Grinding LeetCode"]
-hobbies: ["Gaming", "Chess", "FootBall"]
+hobbies: ["Gaming", "Chess", "FootBall" , "TouchTyping"]
+```
+<h1>🚀  Some Tools I Have Used and Learned</h1>
+<p align="left">
+    <img src="https://media2.giphy.com/media/SS8CV2rQdlYNLtBCiF/200.gif?cid=6c09b9526v0e2isajqmjkop51za85igo7nf35c7c97huy5t5&ep=v1_gifs_search&rid=200.gif&ct=g" width="45' height="45" />
+</p>
+
+  
 
 
 
