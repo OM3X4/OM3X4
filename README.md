@@ -49,6 +49,6 @@ hobbies: ["Gaming", "Chess", "FootBall" , "TouchTyping"]
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="45' height="45" />
 </p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/OM3X4?ext=heatmap)
 
 
