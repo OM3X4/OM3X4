@@ -45,6 +45,7 @@ hobbies: ["Gaming", "Chess", "FootBall" , "TouchTyping"]
     <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="45' height="45" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="45' height="45" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" width="45' height="45" />
+    <img src="https://www.svgrepo.com/show/354262/react-router.svg" width="45' height="45" />
 </p>
 
   
