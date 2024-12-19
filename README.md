@@ -11,6 +11,9 @@
   <a href="https://www.instagram.com/om3x4e/" target="_blank" style="margin: 0 15px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png" alt="Instagram" width="80">
   </a>
+  <a href="https://dev.to/om3x4" target="_blank" style="margin: 0 15px;">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-dev-dot-to-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-2-pack-logos-icons-3147099.png" alt="Dev.to" width="80">
+  </a>
 </p>
 <h1>👨🏻‍💻  A Little Bit About Me and My Interests</h1>
 
