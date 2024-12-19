@@ -1,4 +1,4 @@
-<p align="center">
+  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&height=298&color=gradient&text=Hi%20There👋&reversal=false&textBg=false&fontSize=81&animation=twinkling&desc=This%20is%20Omar%20Emad&fontColor=ffffff&descSize=22"/>
 </p>
 <p align="center">
@@ -49,6 +49,6 @@ hobbies: ["Gaming", "Chess", "FootBall" , "TouchTyping"]
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="45' height="45" />
 </p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/OM3X4?ext=heatmap&width="30000")
+![Leetcode Stats](https://leetcard.jacoblin.cool/OM3X4?ext=heatmap)
 
 
