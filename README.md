@@ -18,12 +18,24 @@ This will render the code block with syntax highlighting for JavaScript.
 
 ---
 
-### Example: Code Block in README
-```markdown
-### Example Code Block
 
-```html
-<p>Hello, GitHub!</p>
+
+```javascript
+name: Omar Emad
+located_in: Egypt
+current_job: Student
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+    "Low Level",
+    "Game Development",
+    "LeetCode",
+  ]
+  
+currently_learning: ["C# , .NET , Grinding LeetCode"]
+hobbies: ["Gaming", "Chess", "FootBall"]
 
 
 
