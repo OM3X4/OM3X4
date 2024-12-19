@@ -14,7 +14,6 @@
 </p>
 <h1>👨🏻‍💻  A Little Bit About Me and My Interests</h1>
 
-This will render the code block with syntax highlighting for JavaScript.
 
 ---
 
