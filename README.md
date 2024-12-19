@@ -3,12 +3,13 @@
 </p>
 <p align="center">
   <a href="https://github.com/om3x4" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="30" style="margin-right: 20px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="30" style="margin: 0 15px; color: #181717;">
   </a>
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" style="margin-right: 20px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" style="margin: 0 15px; color: #0A66C2;">
   </a>
   <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="30">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="30" style="margin: 0 15px; color: #1DA1F2;">
   </a>
 </p>
+
