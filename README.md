@@ -51,8 +51,6 @@ hobbies: ["Gaming", "Chess", "FootBall" , "TouchTyping"]
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/OM3X4?ext=heatmap)
 
-<a href="https://monkeytype.com/profile/om3x4e">
-    <img src="https://raw.githubusercontent.com/GITHUB_USERNAME/GITHUB_REPOSITORY/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
-</a>
+
 
 
