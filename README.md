@@ -1,4 +1,4 @@
-![2a89fee1a635745cec680e88efa49bcc](https://github.com/user-attachments/assets/c9110ec1-0f5e-44f8-a187-213a31bc74a9)<p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&height=298&color=gradient&text=Hi%20There👋&reversal=false&textBg=false&fontSize=81&animation=twinkling&desc=This%20is%20Omar%20Emad&fontColor=ffffff&descSize=22"/>
 </p>
 <p align="center">
