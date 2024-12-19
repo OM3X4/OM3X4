@@ -3,13 +3,13 @@
 </p>
 <p align="center">
   <a href="https://github.com/om3x4" target="_blank" style="margin: 0 15px;">
-    <img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-jaune.png" alt="GitHub" width="30">
+    <img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-jaune.png" alt="GitHub" width="80">
   </a>
   <a href="https://linkedin.com/in/yourprofile" target="_blank" style="margin: 0 15px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="80">
   </a>
-  <a href="https://twitter.com/yourprofile" target="_blank" style="margin: 0 15px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="30">
+  <a href="https://www.instagram.com/om3x4e/" target="_blank" style="margin: 0 15px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tw" alt="Instagram" width="80">
   </a>
 </p>
 
