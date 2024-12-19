@@ -49,9 +49,11 @@ hobbies: ["Gaming", "Chess", "FootBall" , "TouchTyping"]
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="45' height="45" />
 </p>
 
+<h1>📈 LeetCode Stats</h1>
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/OM3X4?ext=heatmap)
 
-<h1>⌨🚅Typing speed</h1>
+<h1>⌨Typing speed</h1>
 
 ![image](https://github.com/user-attachments/assets/628d857f-15a7-46bc-9d2c-bdcf00278e94)
 
