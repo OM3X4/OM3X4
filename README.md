@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/om3x4" target="_blank" style="margin: 0 15px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="30">
+    <img src="https://www.svgrepo.com/show/341847/github.svg" alt="GitHub" width="30">
   </a>
   <a href="https://linkedin.com/in/yourprofile" target="_blank" style="margin: 0 15px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30">
