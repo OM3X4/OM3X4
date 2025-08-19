@@ -5,17 +5,17 @@
 
 
 <p align="center">
-  <a href="https://github.com/om3x4">
-    <img src="https://raw.githubusercontent.com/OM3X4/OM3X4/main/assets/github.png" alt="GitHub" width="40"/>
-  </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank" style="margin: 0 15px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40">
+  <a href="https://linkedin.com/in/om3x4e" target="_blank" style="margin: 0 15px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Linkedin-logo-blue-In-square-40px.png?20231202105023" alt="LinkedIn" width="40">
   </a>
   <a href="https://www.instagram.com/om3x4e/" target="_blank" style="margin: 0 15px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png" alt="Instagram" width="40">
+    <img src="https://cdn.simpleicons.org/instagram/white" alt="Instagram" width="40">
   </a>
   <a href="https://dev.to/om3x4" target="_blank" style="margin: 0 15px;">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-dev-dot-to-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-2-pack-logos-icons-3147099.png" alt="Dev.to" width="40">
+    <img src="https://cdn.simpleicons.org/dev.to/white" alt="Dev.to" width="40">
+  </a>
+  <a href="https://x.com/om3x4e" target="_blank" style="margin: 0 15px;">
+    <img src="https://cdn.simpleicons.org/x/white" alt="Dev.to" width="40">
   </a>
 </p>
 <h1>👨🏻‍💻  A Little Bit About Me and My Interests</h1>
@@ -27,36 +27,37 @@
 
 ```javascript
 name: Omar Emad
-located_in: Egypt
+Based In: Egypt
 current_job: Student
 
 fields_of_interests:
   [
     "Web Development",
-    "Data Science",
     "Low Level",
-    "Game Development",
-    "LeetCode",
+    "DSA",
+    "Startup culture & product building",
+    "Computer science depth",
+    "Software craftsmanship & clean code"
   ]
-currently_learning: ["C# , .NET , Grinding LeetCode"]
-hobbies: ["Gaming", "Chess", "FootBall" , "TouchTyping"]
+currently_learning: ["Rust , Building Real Shit"]
+hobbies: ["Rubics", "Chess", "FootBall" , "Typing"]
 ```
 <p>
   <h1>💻My Projects</h1>
   <p>
+    <a href="https://temdb.com/" target="_blank">TEMDB 🎥</a>
+    <h3>TEMDB is the Definitive Egyptian Movies & TV Database</h3>
+    <img src="https://www.om3x4.com/temdb1.png" />
+  </p>
+  <p>
+    <a href="https://brainsmath.org/" target="_blank">Brainsmath 🧠</a>
+    <h3>Brainsmath is a Fidget-Like Mental Math with Competitive Edge</h3>
+    <img src="https://www.om3x4.com/brainsmath2.01.png" />
+  </p>
+  <p>
     <a href="https://om3x4.github.io/Chezzy/" target="_blank">Chezzy♟</a>
-    <h3>This is a project of a chess website with integrated engine (queen fish) which is made by me also it supports 1v1 and play against queen fish.</h3>
+    <h3>QueenFish is A Pure JavaScript Chess Engine Built from Scratch</h3>
     <img src="https://github.com/user-attachments/assets/da470188-71e0-4bee-b24a-7a47e01e3280" />
-  </p>
-  <p>
-    <a href="https://om3x4.github.io/Omartype/#/" target="_blank">OmarType⌨</a>
-    <h3>OmarType is a monkeytype clone that has most features like theme and blind mode tape mode confidence mode and stop on error while using resistant memory to save.</h3>
-    <img src="https://github.com/user-attachments/assets/a6869ffb-2837-4fe9-b33c-a933197612e2" />
-  </p>
-  <p>
-    <a href="https://om3x4.github.io/Movier/" target="_blank">Movier🎞</a>
-    <h3>This is a like imdb movie db that contain movies with date actors and profiles for actors with bios.</h3>
-    <img src="https://github.com/user-attachments/assets/90430b73-6004-4c59-afdf-d24b0ab705db" />
   </p>
 </p>
 
@@ -64,16 +65,26 @@ hobbies: ["Gaming", "Chess", "FootBall" , "TouchTyping"]
 
 <h1>🚀  Some Tools I Have Used and Learned</h1>
 <p align="left">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" width="45' height="45" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/701px-Python-logo-notext.svg.png" width="45' height="45" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="45' height="45" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" width="45' height="45" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="45' height="45" />
-    <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="45' height="45" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="45' height="45" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" width="45' height="45" />
-    <img src="https://www.svgrepo.com/show/354262/react-router.svg" width="45' height="45" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="45' height="45" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" height="45" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/701px-Python-logo-notext.svg.png" height="45" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="45" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" height="45" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="45" />
+    <img src="https://cdn.simpleicons.org/next.js/white" height="45" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" height="45" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" height="45" />
+    <img src="https://cdn.simpleicons.org/reactrouter/white" height="45" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" height="45" />
+    <img src="https://images.seeklogo.com/logo-png/44/2/framer-motion-logo-png_seeklogo-446185.png" height="45" />
+    <img src="https://cdn.simpleicons.org/django/white" height="45" />
+    <img src="https://cdn.simpleicons.org/node.js/white" height="45" />
+    <img src="https://cdn.simpleicons.org/express/white" height="45" />
+    <img src="https://cdn.simpleicons.org/prisma/white" height="45" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCUaDjGczuu5b038vjXDstYNwIUtEc7rS3Fw&sg" height="45" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" height="45" />
+    <img src="https://cdn.simpleicons.org/postgresql/white" height="45" />
+    <img src="https://cdn.simpleicons.org/railway/white" height="45" />
+    <img src="https://cdn.simpleicons.org/openai/white" height="45" />
 </p>
 
 <h1>📈 LeetCode Stats</h1>
